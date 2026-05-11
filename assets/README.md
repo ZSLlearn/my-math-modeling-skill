@@ -137,15 +137,22 @@
 
 ---
 
-### 7. 机器学习算法说明文档
+### 7. 机器学习与深度学习算法说明文档
 **文件**: `07-机器学习算法说明.md`
 
 涵盖算法：
 - 随机森林 (Random Forest)
 - AdaBoost (Adaptive Boosting)
 - 孤立森林 (Isolation Forest)
+- 卷积神经网络 (CNN)
+- 循环神经网络与LSTM (RNN/LSTM)
+- Transformer与注意力机制
+- 图神经网络 (GNN)
+- 强化学习 (Q-Learning/DQN)
+- 集成学习方法 (Stacking/Blending/Voting)
+- 模型可解释性 (SHAP/LIME)
 
-**适用题型**: 分类预测、回归分析、异常检测等
+**适用题型**: 分类预测、回归分析、异常检测、图像识别、时间序列预测、图结构分析、序贯决策等
 
 ---
 
