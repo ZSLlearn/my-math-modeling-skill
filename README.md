@@ -328,7 +328,14 @@ math-modeling-skill/
 > 本项目 Fork 自 [XiaoMaColtAI/math-modeling-skill](https://github.com/XiaoMaColtAI/math-modeling-skill)，在此基础上进行改进和优化。
 
 - 🔄 迁移至独立仓库 [ZSLlearn/my-math-modeling-skill](https://github.com/ZSLlearn/my-math-modeling-skill)
-- 🛠️ 持续改进和功能增强
+- 📝 更新 README 为个人仓库信息，移除原作者社交媒体链接
+- 🎓 优化指导教师说明，完善阶段门禁审查流程
+- ✍️ 增强论文手说明：
+  - 补充段落节奏与句式多样性指导（长短句交替 + 句式开头多样化）
+  - 新增各章节 AI 味风险热力图（🔴🟡🟢 三色标注）
+  - 新增数学建模论文过渡句自然替代方案
+- 📄 优化美赛论文模板结构和内容
+- 🔧 持续迭代 SKILL.md 主文档
 
 ---
 
